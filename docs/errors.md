@@ -1,1 +1,1 @@
-# Errors, Warnings, and Info messages
+# Errors
